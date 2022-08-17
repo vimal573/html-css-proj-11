@@ -18,7 +18,9 @@
 
   - learn to make pricing cards
 
-  -
+  - learn to put linear gradient on buttons
+
+  - learn about box shadow
 
   - learn media querries make responsive for multiple screen sizes
 
@@ -26,9 +28,9 @@
 
 ## Time taken to finish this project
 
-- 1 hour 50 minutes to complete it
-- 1 hour to make it responsive
+- 6 hour 50 minutes to complete it
+- 2 hour to make it responsive
 
 #### Screenshot
 
-![Desktop](./screenshot/project%2010.png)
+![Desktop](./screenshot/project%2011.png)
